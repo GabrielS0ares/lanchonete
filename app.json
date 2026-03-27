@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Controle da Lanchonete",
+    "slug": "controle-lanchonete",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#fff8ed"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.lanchonete.controle"
+    }
+  }
+}
